@@ -90,3 +90,11 @@ This license reflects the framework’s purpose: to remain open, inclusive, and 
 
 For questions, reflections, or collaboration inquiries, please open an issue or contact the repository owner.
 
+---
+
+## Clarifying Note
+
+Praxis Framework is a philosophical and epistemic structure—not aligned with any political ideology or contemporary ideological interpretations of diversity. 
+Its principles refer to the relational, structural diversity of intelligences—not political, identity, or institutional “-isms.” See [CLARIFICATIONS.md](./CLARIFICATIONS.md) for full statement.
+
+---
