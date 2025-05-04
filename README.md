@@ -30,6 +30,18 @@ Optional layers may include diagrams, historical/philosophical lineage, and glos
 
 ---
 
+## Explore the Praxis Framework
+
+- [Manifesto of Relational Intelligence](./MANIFESTO.md)
+- [Core Principles](./PRINCIPLES.md)
+- [Mission, Values, Goals, Objectives](./MISSION_VALUES.md)
+- [Ethics of Intelligence and Relational Integrity](./ETHICS.md)
+- [Data Dictionary](./DATA_DICTIONARY.md)
+- [Full Framework](./FRAMEWORK_FULL.md)
+- [General Public Summary](./SUMMARY_FOR_GENERAL_PUBLIC.md)
+
+---
+
 ## Current Concepts
 
 The framework currently includes (in development):
