@@ -30,14 +30,14 @@ However, within days:
 
 5. Political commentators cited this as justification for policy decisions and ideological claims.
 
-The original relational meaning—tied to conditional dependencies A, B, C and tempered by D and E—was **fully severed**.  
+The original relational meaning—tied to conditional dependencies A, B, and C and tempered by D and E—was **fully severed**.  
 Each level in the cascade **traversed a narrower pathway**, collapsing the original graph into a **flattened node labeled “X = true.”**
 
 ---
 
 ## Conceptual Breakdown
 
-### 1. **Original Conceptual Graph (Historian’s View)**
+### 1. Original Conceptual Graph (Historian’s View)
 
 ```plaintext
      A        B        C
@@ -45,55 +45,76 @@ Each level in the cascade **traversed a narrower pathway**, collapsing the origi
         → [X: Conditional Node]
             |
            [Tempered by D and E]
+```
 
-Here, "X" is not a truth but a relational node whose activation depends on contextual traversal through A, B, and C, modulated by D and E.
+Here, "X" is not a truth but a **relational node** whose activation depends on **contextual traversal** through A, B, and C, modulated by D and E.
+
+---
 
 ### 2. Flattened Cascade Path
+
+```plaintext
 [X] → [X could happen] → [Experts support X] → [X is happening] → [X justifies action]
-Each step skipped traversal, copying only symbolic surface without accessing the conditional graph.
+```
+
+Each step **skipped traversal**, copying only the symbolic surface without accessing the conditional graph.
+
+---
 
 ### 3. Collapse Mechanism
-Stratum skipped: From conceptual reasoning → associative copying
-Traversal blocked: Public discourse unable/unwilling to revisit A, B, C
-Symbolic substitution: “X” becomes a proxy label for ideological positions
-Relational memory lost: No access to original conceptual dependencies
+
+- **Stratum skipped**: From conceptual reasoning → associative copying  
+- **Traversal blocked**: Public discourse unable/unwilling to revisit A, B, C  
+- **Symbolic substitution**: “X” becomes a proxy label for ideological positions  
+- **Relational memory lost**: No access to original conceptual dependencies  
+
+---
 
 ## Analysis
-✅ This is a textbook information cascade as defined in Praxis:
 
-Nodes copied without edge relationships
-Traversal tokens constrained to surface labels
-Downstream nodes built on falsified conceptual anchors
-Epistemic distortion becomes structural—not just miscommunication but conceptual reconfiguration
+✅ This is a textbook **information cascade** as defined in Praxis:
 
-✅ This demonstrates methodological fragility:
+- Nodes copied without edge relationships  
+- Traversal tokens constrained to surface labels  
+- Downstream nodes built on falsified conceptual anchors  
+- Epistemic distortion becomes **structural**—not just miscommunication but conceptual reconfiguration
 
-Absence of enforced traversal protocols (no footnotes, no source path)
-No meta-reflection (audiences unaware of what strata were skipped)
-No boundary guards (media, influencers, public collapsed symbolic and relational meanings)
-This case also shows asymmetrical epistemic pressure:
-The original speaker is blamed or ignored
-Downstream entities assert flattened “truths” with confidence
-Restoration becomes nearly impossible once ideological commitment solidifies the false node
+✅ This demonstrates **methodological fragility**:
+
+- Absence of enforced traversal protocols (no footnotes, no source path)  
+- No meta-reflection (audiences unaware of what strata were skipped)  
+- No boundary guards (media, influencers, public collapsed symbolic and relational meanings)
+
+This case also shows **asymmetrical epistemic pressure**:
+
+- The original speaker is blamed or ignored  
+- Downstream entities assert flattened “truths” with confidence  
+- Restoration becomes nearly impossible once ideological commitment solidifies the false node
+
+---
 
 ## Integration with Praxis
+
 ### Related Principles
-Collapse Principle → Suppression or skipping of traversal pathways leads to conceptual failure
 
-Protection of Meaning Principle → Relational structure must be preserved, not copied
-
-Irreducibility Principle → Original node “X” cannot be reduced to symbolic shorthand
+- **Collapse Principle** → Suppression or skipping of traversal pathways leads to conceptual failure  
+- **Protection of Meaning Principle** → Relational structure must be preserved, not copied  
+- **Irreducibility Principle** → Original node “X” cannot be reduced to symbolic shorthand  
 
 ### Related Reflections
-/reflections/methodological_fragility.md → skipping traversal and flattening complexity
-/reflections/understanding.md → skipping strata of conceptual reasoning
-/reflections/maps_of_meaning.md → failure to traverse relational edges
-/reflections/restoration.md → near impossibility of recovering suppressed graph
-/reflections/congress_of_intelligences.md → lack of multi-intelligence validation in the public info cycle
+
+- `/reflections/methodological_fragility.md` → skipping traversal and flattening complexity  
+- `/reflections/understanding.md` → skipping strata of conceptual reasoning  
+- `/reflections/maps_of_meaning.md` → failure to traverse relational edges  
+- `/reflections/restoration.md` → near impossibility of recovering suppressed graph  
+- `/reflections/congress_of_intelligences.md` → lack of multi-intelligence validation in the public info cycle  
+
+---
 
 ## Expansion Pathways
-Epistemic restoration strategy: How to trace symbolic claims back to their conceptual graphs?
-Traversal audit models: Can public knowledge systems embed links to source strata?
-Structural reform: What institutional structures would prevent this type of flattening?
-Diagrammatic education: Teach students to draw dependency graphs of claims to reveal hidden conditions
-AI application: Build traversal-aware summarization systems that highlight conditional structure rather than compressing it
+
+- **Epistemic restoration strategy**: How to trace symbolic claims back to their conceptual graphs?  
+- **Traversal audit models**: Can public knowledge systems embed links to source strata?  
+- **Structural reform**: What institutional structures would prevent this type of flattening?  
+- **Diagrammatic education**: Teach students to draw dependency graphs of claims to reveal hidden conditions  
+- **AI application**: Build traversal-aware summarization systems that highlight conditional structure rather than compressing it  
