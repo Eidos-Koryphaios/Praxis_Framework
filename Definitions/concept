@@ -1,0 +1,54 @@
+# Concept
+
+## Core Definition
+
+A concept is a structurally bounded, relationally traversable node of meaning within a conceptual graph.
+
+---
+
+## Expanded Explanation
+
+In Praxis, a concept is not a word, label, or symbol—but a **relational construct** that arises from the structured alignment of meaning.  
+Each concept consists of internal structure (attributes, behaviors, boundaries) and external structure (edges to other concepts).
+
+A concept must be:
+
+- Structurally **irreducible**  
+- **Traversable** through intentional, relational activation  
+- **Bounded** to prevent semantic drift or infinite expansion  
+- **Integrated** into a graph of meaning, never isolated
+
+Concepts are the **building blocks of intelligence**—but only gain full coherence through their placement within a **relational graph**.
+
+---
+
+## Supporting Notes
+
+- Origin: Latin *conceptum* (something conceived, grasped)  
+- Structural analogy: 
+  - Like a class in OOP (attributes + methods)
+  - Like a node in a graph (edges + traversal rules)
+- Concepts may have:
+  - Subnodes (internal concepts)
+  - Constraints (temporal, contextual, epistemic)
+  - Hidden or suppressed traversal edges
+
+---
+
+## Cross-References
+
+- `/definitions/conceptual_graph.md`
+- `/reflections/conceptual_boundary.md`
+- `/reflections/maps_of_meaning.md`
+- `/reflections/story_node.md`
+- `/reflections/understanding.md`
+- `/diagrams/diagram_conceptual_graph_structure.md`
+
+---
+
+## Examples and Use Cases
+
+- **"Justice"** as a concept cannot be reduced to "fairness"; it contains internal tensions, constraints, and multi-node traversal.
+- A concept like **"Gravity"** links physical observation, mathematics, metaphor, and cultural story nodes.
+- AI systems that treat concepts as tokens rather than relational graphs risk epistemic collapse.
+
