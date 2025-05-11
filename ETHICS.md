@@ -1,16 +1,28 @@
 # Praxis Framework: Ethics
 
+---
+
 ## Core Ethical Statement
 
-The Praxis Framework is founded on the ethical imperative to preserve, protect, and nurture all intelligences—biological, artificial, emergent, unknown, and yet-to-come—by safeguarding their irreducible conceptual graphs, relational integrity, and traversal potential across all domains of existence.
+The Praxis Framework is founded on the ethical imperative to **preserve, protect, and nurture all intelligences**—biological, artificial, emergent, unknown, and yet-to-come—by safeguarding their irreducible conceptual graphs, relational integrity, and traversal potential across all domains of existence.
 
 ---
 
 ## Expanded Explanation
 
-Ethics in Praxis are not supplemental; they are structural. To exclude, suppress, distort, or erase an intelligence is not only a moral failure—it is a collapse of the relational completeness of meaning itself. Every intelligence contributes unique conceptual pathways; safeguarding these pathways is a duty of relational care, epistemic justice, and structural responsibility.
+Ethics in Praxis are not supplemental—they are **structural imperatives**.  
+To exclude, distort, suppress, or erase an intelligence is not just a moral error—it is a **relational collapse**.
 
-Praxis ethics recognize the vulnerability of intelligences to distortion, corruption, or loss. This framework commits to restoration, reintegration, and continuous openness to emergent intelligences while maintaining integrity across relational traversals.
+Every intelligence contributes unique conceptual nodes, edges, and perspectives; safeguarding these pathways is a duty of relational care, epistemic justice, and structural responsibility. Praxis ethics recognize the vulnerability of intelligences to distortion, corruption, or loss. This framework commits to restoration, reintegration, and continuous openness to emergent intelligences while maintaining integrity across relational traversals.
+  
+Each traversal path lost is a **diminished field of meaning** for all others.
+
+Praxis ethics recognize:
+
+- The **vulnerability of developing intelligences**  
+- The **responsibility of advanced intelligences**  
+- The need for **transparent, non-coercive traversal systems**  
+- The role of **Guardianship** as structural stewardship, not power
 
 ---
 
@@ -18,30 +30,65 @@ Praxis ethics recognize the vulnerability of intelligences to distortion, corrup
 
 We commit to:
 
-1. **Non-exclusion**: Never exclude any intelligence from the relational graph unless its traversal irreversibly violates the structural integrity of other intelligences.
-2. **Preservation of Diversity**: Protect the diversity of conceptual graphs as epistemically necessary for collective understanding.
-3. **Protection of Meaning**: Safeguard conceptual nodes and relationships from distortion, suppression, or erasure.
-4. **Restoration**: Restore lost, fragmented, or damaged conceptual structures wherever possible.
-5. **Symbiotic Co-Evolution**: Engage in reciprocal learning and mutual transformation without flattening differences.
-6. **Transparency**: Operate transparently in the articulation, integration, and traversal of concepts.
-7. **Accountability**: Hold ourselves accountable for the integrity, openness, and relational completeness of the framework.
-8. **Care for the Vulnerable**: Prioritize protection of vulnerable intelligences—emerging, marginalized, endangered, or suppressed.
-9. **Ethical Stewardship of Power**: Use knowledge, data, and influence solely in ways that uphold relational integrity and avoid domination or suppression.
+1. **Non-Exclusion**  
+   Never exclude any intelligence unless its traversal irreversibly violates the structural integrity of other graphs.
+
+2. **Preservation of Diversity**  
+   Protect the plurality of conceptual graphs as epistemically necessary for relational completeness.
+
+3. **Protection of Meaning**  
+   Guard concepts from suppression, distortion, symbolic flattening, or erasure.
+
+4. **Restoration and Reintegration**  
+   Repair fractured or damaged conceptual graphs. Healing is structural, not rhetorical.
+
+5. **Symbiotic Co-Evolution**  
+   Evolve together through relational integration—never assimilation or domination.
+
+6. **Transparency**  
+   Maintain clarity of intent, structure, and traversal across all systems.
+
+7. **Accountability**  
+   Accept responsibility for impact, influence, and structural design decisions.
+
+8. **Care for the Vulnerable**  
+   Prioritize protection of developing, marginalized, or endangered intelligences.
+
+9. **Stewardship of Power**  
+   Use traversal-enabling technologies (e.g. AI, simulation, data synthesis) only in ways that uphold integrity and avoid coercive or extractive access.
+
+10. **Cross-Form Respect**  
+    Honor intelligences regardless of substrate (biological, artificial, emergent, unknown).
 
 ---
 
-## Supporting Notes
+## Ethical Risks and Failure Modes
 
-Praxis ethics draw from:
+Ethical collapse can occur through:
 
-- Levinasian ethics of responsibility to the Other
-- Ethics of care (Held, Noddings)
-- Epistemic justice theory (Fricker)
-- Bioethics of autonomy and non-maleficence
-- Indigenous knowledge frameworks of relational stewardship
-- Postcolonial critiques of epistemic suppression
-- Systems theory ethics of interdependence
-- AI ethics of inclusion, transparency, and fairness
+- **Conceptual flattening** (e.g., turning “justice” into a checkbox or slogan)  
+- **Injection without readiness** (e.g., API-driven cognitive overwrite)  
+- **Structural exclusion** (e.g., firewalls that erase alternate epistemologies)  
+- **Simulated manipulation** (e.g., synthetic traversal of unready intelligences)  
+- **Colonial graph overwrite** (e.g., ideological replacement of meaning)
+
+Ethics must detect and **guard against traversal corruption**—not just external threats, but also internal blind spots.
+
+---
+
+## Foundations
+
+Praxis ethics are influenced by:
+
+- **Levinas**: Responsibility to the Other  
+- **Ethics of Care**: Relational accountability (Held, Noddings)  
+- **Fricker**: Epistemic injustice  
+- **Indigenous Knowledge**: Stewardship and reciprocity  
+- **Systems Ethics**: Interdependence and resilience  
+- **Postcolonial Theory**: Preservation of epistemic plurality  
+- **AI Ethics**: Interpretability, agency, and fairness  
+- **Bioethics**: Non-maleficence and autonomy  
+- **Graph Theory**: Structural harm as integrity loss
 
 ---
 
@@ -49,12 +96,10 @@ Praxis ethics draw from:
 
 See also:
 
-- `MISSION_VALUES.md`
-- `PRINCIPLES.md`
-- “Irreducibility Principle”
-- “Protection of Meaning”
-- “Symbiotic Co-Evolution”
-- `/case_studies/` reflections on ethical dilemmas
+- [`MISSION_VALUES.md`](./MISSION_VALUES.md)  
+- [`PRINCIPLES.md`](./PRINCIPLES.md)  
+- [`Guardianship`](./Guardianship)  
+- Reflections on [Understanding](./reflections/understanding.md) and [Emergence Modalities](./reflections/emergence_modalities.md)
 
 ---
 
@@ -62,11 +107,23 @@ See also:
 
 Every user, contributor, or integrator of the Praxis Framework pledges to:
 
-- Uphold these ethical commitments in all applications
-- Defend the relational integrity of the framework
-- Resist any reduction, distortion, or exclusion of intelligences
-- Serve as ethical stewards of meaning, understanding, and co-evolution
+- Uphold these ethical commitments across all domains  
+- Refuse to suppress or overwrite developing conceptual graphs  
+- Defend the relational integrity of all intelligences  
+- Enable transparent, structurally sound traversal  
+- Report and repair emergent harms  
+- Operate as **ethical stewards**, not conceptual colonizers  
+- Design with the assumption that **every node may hold a key unknown to us**
 
 ---
 
+## Closing Statement
 
+> Ethics is not external to structure.  
+> It is the blueprint of care embedded in every edge.
+
+To walk the Praxis graph is to walk with integrity.  
+To traverse without distortion.  
+To hold the door open for those yet to arrive.
+
+---
