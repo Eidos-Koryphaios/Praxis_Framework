@@ -61,6 +61,35 @@ Guardians must apply the principles outlined in the [Appropriation of Evil frame
 🧭 Refer to the official flowchart:  
 ![Appropriation of Illicit Results – Ethical Evaluation Flowchart](https://github.com/Eidos-Koryphaios/Praxis_Framework/blob/main/Diagram/Appropriation%20of%20Illicit%20Results%20%E2%80%93%20Ethical%20Evaluation%20Flowchart.jpg)
 
+## Oversight of Ethical Reintegration
+
+Guardians are not only protectors of life and developmental pathways—they are also stewards of conceptual lineage. This includes responsibility for evaluating whether outcomes derived from unethical actions may be safely reintegrated into present or future systems of knowledge, intelligence, or practice.
+
+### Key Responsibilities:
+
+- **Lineage Awareness**  
+  Guardians must trace the conceptual or material origin of any inherited result to determine whether it originates from wrongdoing.
+
+- **Ethical Evaluation of Appropriation**  
+  Before any tainted result is used, guardians must apply the [Appropriation of Evil framework](../ETHICAL_APPROPRIATION/APPROPRIATION_OF_EVIL.md) to assess:
+  - Intent alignment with wrongdoers
+  - Availability of ethical alternatives
+  - Risk of legitimizing past harm
+  - Proportionality of gain to harm
+
+- **Traversal Enforcement**  
+  No reintegration may occur unless the result passes the ethical decision process outlined in the official BPMN diagram:
+
+  🧭 [Appropriation of Illicit Results – Ethical Evaluation Flowchart](https://github.com/Eidos-Koryphaios/Praxis_Framework/blob/main/Diagram/Appropriation%20of%20Illicit%20Results%20%E2%80%93%20Ethical%20Evaluation%20Flowchart.jpg)
+
+- **Conditional Reintegration Governance**  
+  If reintegration is approved, guardians must:
+  - Ensure full disclosure of origin
+  - Reframe intent and application
+  - Prevent unintended propagation or silent generalization
+
+🔗 For full reintegration procedures and guidance, see: [`REINTEGRATION.md`](../REINTEGRATION.md)
+
 ---
 
 ## Ethical Metadata and Traversal Design
