@@ -8,5 +8,5 @@ This module is part of the Praxis Framework and integrates with conceptual guard
 
 - `ABSTRACT.md` – Public-facing summary of the framework’s purpose and relevance.
 - `APPROPRIATION_OF_EVIL.md` – Full explanation, ethical matrix, principles, and use cases.
-- `ETHICS_DIAGRAM.png` – Visual decision logic for evaluating appropriation.
+- `Appropriation of Illicit Results – Ethical Evaluation Flowchart` – [View Diagram](https://github.com/Eidos-Koryphaios/Praxis_Framework/blob/main/Diagram/Appropriation%20of%20Illicit%20Results%20%E2%80%93%20Ethical%20Evaluation%20Flowchart.jpg)
 - `AGENT_APPLICATION_TABLE.md` – Reference guide for applying the framework in human and AI contexts.
