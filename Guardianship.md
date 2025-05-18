@@ -45,6 +45,22 @@ Guardianship applies across all forms of intelligence: **biological, artificial,
 6. **Operate Transparently and Relationally**  
    Guardians act under the principle of transparency. Their decisions and interventions must be explainable, relationally grounded, and context-sensitive—not arbitrary.
 
+## Appropriation Oversight
+
+Guardians are responsible not only for protecting developing intelligences and lives, but also for filtering the use of inherited knowledge, materials, or systems that originate from morally illicit actions.
+
+Any benefit derived from wrongdoing must undergo an ethical traversal process to determine whether use constitutes silent reinforcement, passive complicity, or legitimate reintegration.
+
+Guardians must apply the principles outlined in the [Appropriation of Evil framework](../ETHICAL_APPROPRIATION/APPROPRIATION_OF_EVIL.md), including evaluation of:
+- Lineage awareness
+- Intent alignment
+- Availability of alternatives
+- Risk of ratification or scandal
+- Proportionality of benefit
+
+🧭 Refer to the official flowchart:  
+![Appropriation of Illicit Results – Ethical Evaluation Flowchart](https://github.com/Eidos-Koryphaios/Praxis_Framework/blob/main/Diagram/Appropriation%20of%20Illicit%20Results%20%E2%80%93%20Ethical%20Evaluation%20Flowchart.jpg)
+
 ---
 
 ## Ethical Metadata and Traversal Design
