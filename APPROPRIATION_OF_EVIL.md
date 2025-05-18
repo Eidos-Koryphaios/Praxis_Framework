@@ -95,6 +95,28 @@ These principles clarify whether appropriation is morally permissible:
 > **Note:** While some modern debates frame appropriation in political terms (e.g., cultural participation), this framework remains focused solely on the ethical consequences of using the fruits of wrongdoing—not on symbolic ownership of ideas or practices unless they were gained through coercion, exploitation, or deception.
 
 ---
+## Visual Decision Flow
+
+The framework is summarized in the following BPMN 2.0 diagram:
+
+**Appropriation of Illicit Results – Ethical Evaluation Flowchart**  
+![Ethical Evaluation Flowchart](https://github.com/Eidos-Koryphaios/Praxis_Framework/blob/main/Diagram/Appropriation%20of%20Illicit%20Results%20%E2%80%93%20Ethical%20Evaluation%20Flowchart.jpg)
+
+This decision logic ensures that all post-act moral appropriations are tested against:
+- Known lineage
+- Availability of clean alternatives
+- Intent alignment with original wrongdoing
+- Risk of ratification, scandal, or feedback reinforcement
+- Proportionality of benefit to the original harm
+
+Depending on the traversal, outcomes are:
+- 🟢 **Reintegration** (ethically justified)
+- 🟡 **Quarantine Use** (restricted use with limitations)
+- 🔴 **Rejection / Ethical Block** (use is prohibited)
+
+See `AGENT_APPLICATION_TABLE.md` for practical implementation guidance across human and AI contexts.
+
+---
 
 ## Praxis Framework Integration
 
