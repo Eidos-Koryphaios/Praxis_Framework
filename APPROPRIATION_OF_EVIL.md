@@ -84,17 +84,15 @@ These principles clarify whether appropriation is morally permissible:
 - Even if the model performs well, its use may validate exploitative data collection.
 - Proportionality and lineage remediation are required before deployment.
 
-### 2. **Scientific Use of Unethically Acquired Research (e.g., Nazi Experiments)**
+### 2. **Scientific Use of Unethically Acquired Research (e.g., non-consensual human experimentation)**
 - Direct reuse without ethical distancing ratifies past atrocities.
 - Proportionality must be overwhelming, and origin must be acknowledged.
 
-### 3. **Cultural Appropriation of Suppressed or Colonized Traditions**
-- Even with good intent, structural benefits often reinforce original injustice.
-- Requires explicit guardianship, lineage respect, and contextual use.
+### 3. **Silent Endorsement of Institutional Harm**
+- When populations remain silent during wrongdoing and later benefit, appropriation occurs passively.
+- Requires moral awareness, historical correction, or active remediation to break the feedback loop.
 
-### 4. **Historical Silence of the Majority**
-- Populations often benefit from actions they neither caused nor stopped.
-- Passive appropriation of structural privilege must be identified and ethically addressed.
+> **Note:** While some modern debates frame appropriation in political terms (e.g., cultural participation), this framework remains focused solely on the ethical consequences of using the fruits of wrongdoing—not on symbolic ownership of ideas or practices unless they were gained through coercion, exploitation, or deception.
 
 ---
 
@@ -111,10 +109,8 @@ These principles clarify whether appropriation is morally permissible:
 
 ## Summary
 
-Appropriation of Evil is a universal moral pattern. It does not depend on religion, ideology, or time period. It arises whenever entities—human or artificial—use outcomes obtained by others through unethical means.
+Appropriation of Evil is a universal moral pattern. It is not dependent on any particular ideology or belief system. It emerges whenever a benefit—material, conceptual, structural, or symbolic—is derived from an act that violated fundamental ethical norms.
 
-While appropriation is not always wrong, it **requires conscious evaluation**. Without this process, silent majorities may reinforce harm, reward oppression, or unintentionally ensure the continuation of evil under the guise of progress.
+This framework holds that even passive beneficiaries must evaluate their relationship to past harm. If left unexamined, appropriation can become a silent carrier of conceptual corruption and structural injustice across generations.
 
-The Praxis Framework recognizes appropriation as one of the **core vectors of conceptual corruption and intergenerational moral drift.**
-
----
+In the Praxis Framework, appropriation is recognized as one of the key challenges in the ethical transmission of knowledge, the governance of data, and the design of emergent intelligences.
