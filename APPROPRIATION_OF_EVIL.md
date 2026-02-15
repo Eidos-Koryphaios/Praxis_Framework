@@ -131,7 +131,7 @@ See `AGENT_APPLICATION_TABLE.md` for practical implementation guidance across hu
 
 ## Summary
 
-Appropriation of Evil is a universal moral pattern. It is not dependent on any particular ideology or belief system. It emerges whenever a benefit—material, conceptual, structural, or symbolic—is derived from an act that violated fundamental ethical norms.
+Appropriation of Evil is a universal moral pattern. It is not dependent on any particular ideology or belief system. It emerges whenever a benefit—material, conceptual, structural, or symbolic—is derived from an act that violated fundamental ethical norms. See `ETHICS.md`.
 
 This framework holds that even passive beneficiaries must evaluate their relationship to past harm. If left unexamined, appropriation can become a silent carrier of conceptual corruption and structural injustice across generations.
 
